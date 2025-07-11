@@ -24,4 +24,4 @@
 除了在线播放，许多平台还提供资源下载服务，用户可以在没有网络连接时观看自己喜爱的影片。下载功能为用户提供了更多的灵活性，使得他们可以随时随地享受最喜欢的影片。下载时要确保使用平台提供的官方链接，避免遭遇病毒或恶意文件的威胁。  
 
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/gmz20250711/rbriben19 )</span>
